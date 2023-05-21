@@ -1,5 +1,5 @@
 # Ruby Library Management System
-# Create the class of book
+# Create the class of book/
 class Book
   attr_accessor :title, :author, :available
 
